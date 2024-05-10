@@ -1,1 +1,1 @@
-This scripts shows varipus permissions that can be done in shell
+Contained in this directory are files with scripts for shell permissions.
